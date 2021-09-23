@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "Karabo",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "firstname": "Alex",
+      "age": 11,
+      "companyId": "1",
+      "id": "2"
+    },
+    {
+      "firstname": "Tshepang",
+      "age": 25,
+      "companyId": "1",
+      "id": "3"
+    },
+    {
+      "firstname": "Neo",
+      "age": 16,
+      "companyId": "3",
+      "id": "4"
+    },
+    {
+      "firstname": "Mahlatsi",
+      "age": 16,
+      "companyId": "3",
+      "id": "5"
+    },
+    {
+      "firstname": "Shibe",
+      "age": 100,
+      "id": "zn-pUw6"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    },
+    {
+      "id": "3",
+      "name": "Sambe",
+      "description": "consulting"
+    }
+  ]
+}
